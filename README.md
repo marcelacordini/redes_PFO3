@@ -79,14 +79,3 @@ pfo3_redes.zip
 
 
 ---
-
-## 🐙 4. Configuración para Subir a GitHub (sin BD ni temporales)
-
-Para publicar el código en GitHub siguiendo las mejores prácticas, se incluye un archivo  en la raíz del repositorio.
-
-### Pasos sugeridos:
-1. Inicializar el repositorio local: Initialized empty Git repository in /workspace/.git/
-2. Agregar los archivos al área de preparación: 
-3. Realizar el primer commit: 
-4. Renombrar la rama principal: 
-5. Vincular y subir al repositorio remoto de GitHub.
