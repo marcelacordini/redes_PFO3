@@ -2,7 +2,7 @@
 ## Rediseño como Sistema Distribuido (Cliente-Servidor)
 
 **Materia:** Programación sobre Redes  
-**Profesor:** Alan Portillo  
+**Alumno:** Marcela Cordini  
 **Entregable:** Arquitectura de Sistema Distribuido (Sockets + Pool de Workers) y Diagrama de Componentes
 
 ---
