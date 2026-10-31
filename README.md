@@ -23,8 +23,8 @@ El proyecto se compone de:
 ![Diagrama de Arquitectura Distribuida PFO3](img/diagrama.png)
 
 <small><b>Figura 1:</b> Flujo de datos desde los clientes hasta el almacenamiento distribuido, pasando por el balanceador de carga, los gateways TCP, la cola de mensajes y el pool de workers.</small>
----
 
+---
 ## 🧩 Explicación de los Componentes del Diagrama
 
 1. **Clientes (Móviles, Web, CLI):**
